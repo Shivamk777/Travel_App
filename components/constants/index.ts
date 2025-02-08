@@ -9,10 +9,10 @@ export const NAV_LINKS = [
   
   // CAMP SECTION
   export const PEOPLE_URL = [
-    '/person-1.png',
-    '/person-2.png',
-    '/person-3.png',
-    '/person-4.png',
+    '/person 1.jpg',
+    '/person 2.jpg',
+    '/person 3.png',
+    '/person 4.jpg',
   ];
   
   // FEATURES SECTION
@@ -20,21 +20,21 @@ export const NAV_LINKS = [
     {
       title: 'Real maps can be offline',
       icon: '/map.svg',
-      variant: 'green',
+      variant: 'blue',
       description:
         'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
     },
     {
       title: 'Set an adventure schedule',
       icon: '/calendar.svg',
-      variant: 'green',
+      variant: 'blue',
       description:
         "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
     },
     {
       title: 'Technology using augment reality',
       icon: '/tech.svg',
-      variant: 'green',
+      variant: 'blue',
       description:
         'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
     },
@@ -52,7 +52,7 @@ export const NAV_LINKS = [
     {
       title: 'Learn More',
       links: [
-        'About Hilink',
+        'About MountainCamp',
         'Press Releases',
         'Environment',
         'Jobs',
@@ -62,7 +62,7 @@ export const NAV_LINKS = [
     },
     {
       title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+      links: ['Climbing himalya', 'Hiking Mountain', 'Camp Hill'],
     },
   ];
   
@@ -70,7 +70,7 @@ export const NAV_LINKS = [
     title: 'Contact Us',
     links: [
       { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Email Officer', value: 'Mountain@camp.com' },
     ],
   };
   
